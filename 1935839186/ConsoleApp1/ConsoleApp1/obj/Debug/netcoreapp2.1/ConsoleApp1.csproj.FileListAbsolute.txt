@@ -1,0 +1,11 @@
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.deps.json
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.json
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.runtimeconfig.dev.json
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csprojAssemblyReference.cache
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfoInputs.cache
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.AssemblyInfo.cs
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.dll
+Z:\DIERCI\AchaoCalculator\1935839186\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\ConsoleApp1.pdb
